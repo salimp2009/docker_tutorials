@@ -1,0 +1,1 @@
+console.log('This app is created by Nodejs container!');
